@@ -1,26 +1,26 @@
-Category,App Name,Popularity,UX,Impact,Novelty
-Wallet Apps,MetaMask,5,4,5,3
-Wallet Apps,Trust Wallet,5,4,4,3
-Wallet Apps,Exodus,4,4,3,3
-Wallet Apps,Ledger Live,4,3,4,2
-Wallet Apps,Kaspa Wallet,3,2,3,4
-Exchange Apps,Binance,5,4,5,3
-Exchange Apps,Coinbase,5,4,5,3
-Exchange Apps,KuCoin,4,3,4,3
-Exchange Apps,Kraken,3,3,4,2
-Exchange Apps,OKX,3,3,3,3
-Layer 1 & Smart Contract Platforms,Ethereum,5,4,5,4
-Layer 1 & Smart Contract Platforms,Solana,5,4,4,4
-Layer 1 & Smart Contract Platforms,ICP,3,2,4,5
-Layer 1 & Smart Contract Platforms,Cardano,3,3,3,3
-Layer 1 & Smart Contract Platforms,Elastos,2,2,3,4
-DeFi & Staking Apps,Aave,5,4,5,4
-DeFi & Staking Apps,Uniswap,5,4,5,5
-DeFi & Staking Apps,PancakeSwap,4,4,4,4
-DeFi & Staking Apps,SushiSwap,3,3,4,3
-DeFi & Staking Apps,THETA Wallet,2,2,3,4
-Gaming & NFT Apps,Axie Infinity,4,3,3,4
-Gaming & NFT Apps,StepN,4,3,3,5
-Gaming & NFT Apps,The Sandbox,4,3,4,5
-Gaming & NFT Apps,Gods Unchained,3,4,3,4
-Gaming & NFT Apps,Decentraland,3,3,3,4
+Category,App Name,Popularity,UX,Impact,Novelty,Active Users,Transactions,Growth Rate,Revenue Model,Total Revenue,Burn Rate,Competitor Count,Market Differentiation,First Mover,Social Followers,Engagement Rate,Sentiment Score,Developer Activity,Regulatory Risk,Security Incidents
+Wallet Apps,MetaMask,5,4,5,3,20000000,50000000,4.5,Swap Fees,20000000,0,10,4,True,2500000,4,4.2,5,2,1
+Wallet Apps,Trust Wallet,5,4,4,3,15000000,30000000,4.2,Transaction Fees,15000000,0,12,3.5,False,1800000,3.8,4.1,4,2,2
+Wallet Apps,Exodus,4,4,3,3,5000000,10000000,3.8,Transaction Fees,5000000,0,15,3,False,1200000,3.5,3.7,3,2,1
+Wallet Apps,Ledger Live,4,3,4,2,3000000,8000000,3.5,Hardware Sales,12000000,0,8,4,True,900000,3.2,3.5,3,1,0
+Wallet Apps,Kaspa Wallet,3,2,3,4,1000000,2000000,2.8,Transaction Fees,1000000,0,20,3.5,False,400000,2.5,3.0,2,2,0
+Exchange Apps,Binance,5,4,5,3,90000000,100000000,4.8,Trading Fees,1000000000,100000000,5,4.5,True,4000000,4.5,4.3,5,4,3
+Exchange Apps,Coinbase,5,4,5,3,73000000,85000000,4.6,Trading Fees,650000000,50000000,5,4.2,True,3000000,4.2,4.0,4,3,1
+Exchange Apps,KuCoin,4,3,4,3,20000000,30000000,4.0,Trading Fees,80000000,20000000,10,4,False,1500000,3.9,3.8,4,3,2
+Exchange Apps,Kraken,3,3,4,2,15000000,20000000,3.8,Trading Fees,50000000,15000000,12,3.5,False,1200000,3.5,3.6,3,2,1
+Exchange Apps,OKX,3,3,3,3,18000000,25000000,3.9,Trading Fees,60000000,18000000,10,3.5,False,1300000,3.7,3.5,3,2,2
+Layer 1 & Smart Contract Platforms,Ethereum,5,4,5,4,100000000,500000000,5,Gas Fees,500000000,0,3,5,True,5000000,4.8,4.7,5,3,1
+Layer 1 & Smart Contract Platforms,Solana,5,4,4,4,50000000,250000000,4.8,Gas Fees,250000000,0,5,4.5,True,4000000,4.5,4.5,5,3,1
+Layer 1 & Smart Contract Platforms,ICP,3,2,4,5,10000000,50000000,3.5,Storage Fees,50000000,0,10,4.2,False,1500000,3.2,3.6,4,2,1
+Layer 1 & Smart Contract Platforms,Cardano,3,3,3,3,30000000,100000000,4.0,Gas Fees,100000000,0,8,3.5,False,2500000,3.8,3.9,4,2,0
+Layer 1 & Smart Contract Platforms,Elastos,2,2,3,4,2000000,5000000,2.8,Storage Fees,10000000,0,15,3,False,500000,2.5,3.0,3,2,0
+DeFi & Staking Apps,Aave,5,4,5,4,12000000,40000000,4.5,Lending Fees,200000000,0,5,4.5,True,2200000,4.2,4.3,5,3,1
+DeFi & Staking Apps,Uniswap,5,4,5,5,15000000,70000000,4.8,Swap Fees,300000000,0,3,5,True,2500000,4.5,4.4,5,3,1
+DeFi & Staking Apps,PancakeSwap,4,4,4,4,10000000,30000000,4.2,Swap Fees,150000000,0,5,4.2,False,2000000,4.0,4.1,4,3,2
+DeFi & Staking Apps,SushiSwap,3,3,4,3,8000000,20000000,3.8,Swap Fees,80000000,0,6,3.5,False,1200000,3.5,3.7,3,2,1
+DeFi & Staking Apps,THETA Wallet,2,2,3,4,3000000,5000000,2.9,Staking Rewards,20000000,0,10,3,False,700000,2.3,3.0,3,2,0
+Gaming & NFT Apps,Axie Infinity,4,3,3,4,1200000,5000000,3.5,NFT Sales,25000000,5000000,20,3,True,1500000,3.5,3.8,3,2,2
+Gaming & NFT Apps,StepN,4,3,3,5,800000,2500000,3.8,Move-to-Earn,15000000,2000000,10,4,True,1200000,3.8,3.9,3,2,1
+Gaming & NFT Apps,The Sandbox,4,3,4,5,900000,3000000,3.9,NFT Sales,20000000,4000000,15,3.8,True,1400000,3.6,3.7,3,2,1
+Gaming & NFT Apps,Gods Unchained,3,4,3,4,600000,2000000,3.2,Card Packs,10000000,3000000,18,3.5,False,1100000,3.5,3.6,3,2,0
+Gaming & NFT Apps,Decentraland,3,3,3,4,500000,1500000,3.0,NFT Sales,12000000,2500000,15,3.2,False,1000000,3.3,3.5,3,2,1
